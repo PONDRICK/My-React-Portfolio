@@ -1,23 +1,30 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Navigation from './components/Navigation';
+import Home from './components/Home';
+import About from './components/About';
+import Skills from './components/Skills';
+import Projects from './components/Projects';
+import Certificate from './components/Certificate';
+import Contact from './components/Contact';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header>
+        <Navigation />
       </header>
+      <main>
+        <Home />
+        <About />
+        <Skills />
+        <Projects />
+        <Certificate />
+        <Contact />
+      </main>
+      <footer>
+        <p>&copy; 2024 Sorrawit Nuernuam. All rights reserved.</p>
+      </footer>
     </div>
   );
 }
