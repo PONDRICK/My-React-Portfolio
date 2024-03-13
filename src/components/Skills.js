@@ -12,6 +12,7 @@ function Skills() {
           <li>Javascript</li>
           <li>HTML</li>
           <li>CSS</li>
+          <li>React</li>
           <li>React Native</li>
           <li>C</li>
           <li>MySQL</li>
