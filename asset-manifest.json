@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/My-React-Portfolio/static/css/main.221fb6a7.css",
+    "main.js": "/My-React-Portfolio/static/js/main.b01c8b1e.js",
+    "static/js/453.5ec38994.chunk.js": "/My-React-Portfolio/static/js/453.5ec38994.chunk.js",
+    "static/media/Covid.png": "/My-React-Portfolio/static/media/Covid.a82d6415aa4278aa53bd.png",
+    "static/media/Country_API.png": "/My-React-Portfolio/static/media/Country_API.03a109ec616b528f0366.png",
+    "static/media/My_Port.png": "/My-React-Portfolio/static/media/My_Port.8bcee16197a7411d632e.png",
+    "static/media/pond.png": "/My-React-Portfolio/static/media/pond.8498d375cdaf85b2a812.png",
+    "static/media/MemoAPP.png": "/My-React-Portfolio/static/media/MemoAPP.f31660166abe58947d21.png",
+    "static/media/Matlab_Funda.png": "/My-React-Portfolio/static/media/Matlab_Funda.ccf4559e3d328dfedd91.png",
+    "static/media/Food_menu.png": "/My-React-Portfolio/static/media/Food_menu.74b8511180dbfef0e3cd.png",
+    "static/media/Matlab_Image_Onramp.png": "/My-React-Portfolio/static/media/Matlab_Image_Onramp.c9ccb049cc0d3bd86993.png",
+    "static/media/Matlab_Onramp.png": "/My-React-Portfolio/static/media/Matlab_Onramp.0a686098e77eb16a1d8c.png",
+    "static/media/CV Sorrawit Nuernuam.pdf": "/My-React-Portfolio/static/media/CV Sorrawit Nuernuam.367e60247300820283dd.pdf",
+    "static/media/Sucide_rate.png": "/My-React-Portfolio/static/media/Sucide_rate.a88b84ab271988095edc.png",
+    "index.html": "/My-React-Portfolio/index.html",
+    "main.221fb6a7.css.map": "/My-React-Portfolio/static/css/main.221fb6a7.css.map",
+    "main.b01c8b1e.js.map": "/My-React-Portfolio/static/js/main.b01c8b1e.js.map",
+    "453.5ec38994.chunk.js.map": "/My-React-Portfolio/static/js/453.5ec38994.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221fb6a7.css",
+    "static/js/main.b01c8b1e.js"
+  ]
+}
