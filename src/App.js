@@ -1,13 +1,13 @@
-import React from 'react';
-import './App.css';
-import Navigation from './components/Navigation';
-import Home from './components/Home';
-import About from './components/About';
-import Skills from './components/Skills';
-import Projects from './components/Projects';
-import Certificate from './components/Certificate';
-import Contact from './components/Contact';
-import Other_Projects from './components/Other_Project';
+import React from "react";
+import "./App.css";
+import Navigation from "./components/Navigation";
+import Home from "./components/Home";
+import About from "./components/About";
+import Skills from "./components/Skills";
+import Projects from "./components/Projects";
+import Certificate from "./components/Certificate";
+import Contact from "./components/Contact";
+import Other_Projects from "./components/Other_Project";
 
 function App() {
   return (
@@ -20,7 +20,7 @@ function App() {
         <About />
         <Skills />
         <Projects />
-        <Other_Projects/>
+        <Other_Projects />
         <Certificate />
         <Contact />
       </main>

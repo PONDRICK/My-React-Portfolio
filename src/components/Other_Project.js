@@ -1,5 +1,4 @@
-// components/Projects.js
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState } from "react";
 
 function Other_Projects() {
   const [projects, setProjects] = useState([]);
