@@ -25,7 +25,6 @@ function Home() {
             </div>
           </div>
         </div>
-        npm
       </div>
     </section>
   );
