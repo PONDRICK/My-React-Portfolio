@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-React-Portfolio/static/css/main.221fb6a7.css",
-    "main.js": "/My-React-Portfolio/static/js/main.b01c8b1e.js",
+    "main.css": "/My-React-Portfolio/static/css/main.bd6ecf11.css",
+    "main.js": "/My-React-Portfolio/static/js/main.e6dfdcec.js",
     "static/js/453.5ec38994.chunk.js": "/My-React-Portfolio/static/js/453.5ec38994.chunk.js",
     "static/media/Covid.png": "/My-React-Portfolio/static/media/Covid.a82d6415aa4278aa53bd.png",
     "static/media/Country_API.png": "/My-React-Portfolio/static/media/Country_API.03a109ec616b528f0366.png",
@@ -15,12 +15,12 @@
     "static/media/CV Sorrawit Nuernuam.pdf": "/My-React-Portfolio/static/media/CV Sorrawit Nuernuam.367e60247300820283dd.pdf",
     "static/media/Sucide_rate.png": "/My-React-Portfolio/static/media/Sucide_rate.a88b84ab271988095edc.png",
     "index.html": "/My-React-Portfolio/index.html",
-    "main.221fb6a7.css.map": "/My-React-Portfolio/static/css/main.221fb6a7.css.map",
-    "main.b01c8b1e.js.map": "/My-React-Portfolio/static/js/main.b01c8b1e.js.map",
+    "main.bd6ecf11.css.map": "/My-React-Portfolio/static/css/main.bd6ecf11.css.map",
+    "main.e6dfdcec.js.map": "/My-React-Portfolio/static/js/main.e6dfdcec.js.map",
     "453.5ec38994.chunk.js.map": "/My-React-Portfolio/static/js/453.5ec38994.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.221fb6a7.css",
-    "static/js/main.b01c8b1e.js"
+    "static/css/main.bd6ecf11.css",
+    "static/js/main.e6dfdcec.js"
   ]
 }
