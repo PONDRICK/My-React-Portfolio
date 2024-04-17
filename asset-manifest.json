@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-React-Portfolio/static/css/main.bd6ecf11.css",
-    "main.js": "/My-React-Portfolio/static/js/main.e6dfdcec.js",
+    "main.js": "/My-React-Portfolio/static/js/main.ecbb9be8.js",
     "static/js/453.5ec38994.chunk.js": "/My-React-Portfolio/static/js/453.5ec38994.chunk.js",
     "static/media/Covid.png": "/My-React-Portfolio/static/media/Covid.a82d6415aa4278aa53bd.png",
     "static/media/Country_API.png": "/My-React-Portfolio/static/media/Country_API.03a109ec616b528f0366.png",
@@ -13,14 +13,16 @@
     "static/media/Matlab_Image_Onramp.png": "/My-React-Portfolio/static/media/Matlab_Image_Onramp.c9ccb049cc0d3bd86993.png",
     "static/media/Matlab_Onramp.png": "/My-React-Portfolio/static/media/Matlab_Onramp.0a686098e77eb16a1d8c.png",
     "static/media/CV Sorrawit Nuernuam.pdf": "/My-React-Portfolio/static/media/CV Sorrawit Nuernuam.367e60247300820283dd.pdf",
+    "static/media/rabbit_card.jpg": "/My-React-Portfolio/static/media/rabbit_card.23971a22a9ef95cb4c72.jpg",
     "static/media/Sucide_rate.png": "/My-React-Portfolio/static/media/Sucide_rate.a88b84ab271988095edc.png",
+    "static/media/Seek_campaign.png": "/My-React-Portfolio/static/media/Seek_campaign.75847b9f4dea31bce319.png",
     "index.html": "/My-React-Portfolio/index.html",
     "main.bd6ecf11.css.map": "/My-React-Portfolio/static/css/main.bd6ecf11.css.map",
-    "main.e6dfdcec.js.map": "/My-React-Portfolio/static/js/main.e6dfdcec.js.map",
+    "main.ecbb9be8.js.map": "/My-React-Portfolio/static/js/main.ecbb9be8.js.map",
     "453.5ec38994.chunk.js.map": "/My-React-Portfolio/static/js/453.5ec38994.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd6ecf11.css",
-    "static/js/main.e6dfdcec.js"
+    "static/js/main.ecbb9be8.js"
   ]
 }
