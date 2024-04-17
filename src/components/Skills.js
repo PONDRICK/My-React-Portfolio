@@ -9,15 +9,15 @@ function Skills() {
           <li>Python</li>
           <li>Java</li>
           <li>Javascript</li>
+          <li>C</li>
+          <li>MATLAB</li>
           <li>HTML</li>
           <li>CSS</li>
           <li>React</li>
           <li>React Native</li>
-          <li>C</li>
-          <li>MySQL</li>
-          <li>MATLAB</li>
-          <li>Docker</li>
           <li>Node.js</li>
+          <li>MySQL</li>
+          <li>Docker</li>
         </ul>
       </div>
     </section>

@@ -13,7 +13,7 @@ function Projects() {
         <h2>Highlight Projects</h2>
         <div class="projects-grid">
           <a
-            href="https://github.com/PONDRICK/My-Portfolio"
+            href="https://github.com/PONDRICK/My-React-Portfolio"
             target="_blank"
             class="project-card"
           >
