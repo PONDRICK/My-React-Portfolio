@@ -1,5 +1,5 @@
-import React from 'react';
-import profileImage from '../assets/images/pond.png';
+import React from "react";
+import profileImage from "../assets/images/pond.png";
 import CV_download from "../assets/images/CV Sorrawit Nuernuam.pdf";
 
 function Home() {
@@ -17,16 +17,15 @@ function Home() {
             <p>Computer Science Student</p>
             <p>Kasetsart University</p>
             <div class="download-cv">
-                <a
-                  href={CV_download}
-                  target="_blank"
-                  class="glow-on-hover"
-                >
-                  <button><i class="fa fa-download"></i> Download CV</button>
-                </a>
-              </div>
+              <a href={CV_download} target="_blank" class="glow-on-hover">
+                <button>
+                  <i class="fa fa-download"></i> Download CV
+                </button>
+              </a>
+            </div>
           </div>
         </div>
+        npm
       </div>
     </section>
   );
