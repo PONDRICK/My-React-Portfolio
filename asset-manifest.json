@@ -1,30 +1,34 @@
 {
   "files": {
     "main.css": "/My-React-Portfolio/static/css/main.bd6ecf11.css",
-    "main.js": "/My-React-Portfolio/static/js/main.2cb01ef4.js",
+    "main.js": "/My-React-Portfolio/static/js/main.a8dd44cd.js",
     "static/js/453.5ec38994.chunk.js": "/My-React-Portfolio/static/js/453.5ec38994.chunk.js",
     "static/media/ปัญหาการส่งเสริมสุขภาพ.pdf": "/My-React-Portfolio/static/media/ปัญหาการส่งเสริมสุขภาพ.03aea342d45dab18cb39.pdf",
     "static/media/Rabbit.pdf": "/My-React-Portfolio/static/media/Rabbit.337093c21418c911c24c.pdf",
+    "static/media/spotscout.png": "/My-React-Portfolio/static/media/spotscout.10ad0e117da6660f4152.png",
     "static/media/Covid.png": "/My-React-Portfolio/static/media/Covid.a82d6415aa4278aa53bd.png",
     "static/media/Country_API.png": "/My-React-Portfolio/static/media/Country_API.03a109ec616b528f0366.png",
     "static/media/My_Port.png": "/My-React-Portfolio/static/media/My_Port.8bcee16197a7411d632e.png",
     "static/media/pond.png": "/My-React-Portfolio/static/media/pond.8498d375cdaf85b2a812.png",
     "static/media/MemoAPP.png": "/My-React-Portfolio/static/media/MemoAPP.f31660166abe58947d21.png",
+    "static/media/Janken.png": "/My-React-Portfolio/static/media/Janken.f7095c81d63edfe2ea97.png",
     "static/media/Matlab_Funda.png": "/My-React-Portfolio/static/media/Matlab_Funda.ccf4559e3d328dfedd91.png",
     "static/media/Food_menu.png": "/My-React-Portfolio/static/media/Food_menu.74b8511180dbfef0e3cd.png",
     "static/media/Matlab_Image_Onramp.png": "/My-React-Portfolio/static/media/Matlab_Image_Onramp.c9ccb049cc0d3bd86993.png",
     "static/media/Matlab_Onramp.png": "/My-React-Portfolio/static/media/Matlab_Onramp.0a686098e77eb16a1d8c.png",
+    "static/media/Kidney.png": "/My-React-Portfolio/static/media/Kidney.53748c28f2a6d4033af3.png",
     "static/media/CV Sorrawit Nuernuam.pdf": "/My-React-Portfolio/static/media/CV Sorrawit Nuernuam.a300ed4900d1dfc7c12e.pdf",
     "static/media/rabbit_card.jpg": "/My-React-Portfolio/static/media/rabbit_card.23971a22a9ef95cb4c72.jpg",
     "static/media/Sucide_rate.png": "/My-React-Portfolio/static/media/Sucide_rate.a88b84ab271988095edc.png",
     "static/media/Seek_campaign.png": "/My-React-Portfolio/static/media/Seek_campaign.75847b9f4dea31bce319.png",
+    "static/media/spot.png": "/My-React-Portfolio/static/media/spot.2f0d3cfa29896a953fa3.png",
     "index.html": "/My-React-Portfolio/index.html",
     "main.bd6ecf11.css.map": "/My-React-Portfolio/static/css/main.bd6ecf11.css.map",
-    "main.2cb01ef4.js.map": "/My-React-Portfolio/static/js/main.2cb01ef4.js.map",
+    "main.a8dd44cd.js.map": "/My-React-Portfolio/static/js/main.a8dd44cd.js.map",
     "453.5ec38994.chunk.js.map": "/My-React-Portfolio/static/js/453.5ec38994.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd6ecf11.css",
-    "static/js/main.2cb01ef4.js"
+    "static/js/main.a8dd44cd.js"
   ]
 }
