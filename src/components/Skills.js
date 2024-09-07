@@ -43,12 +43,8 @@ function Skills() {
             <li>
               <SiTypescript /> Typescript
             </li>
-            <li>
-              <SiC /> C
-            </li>
-            <li>
-              <SiCsharp /> C#
-            </li>
+            <li>C</li>
+            <li>C#</li>
             <li>MATLAB</li>
           </ul>
         </div>
@@ -80,12 +76,8 @@ function Skills() {
             <li>
               <DiNodejsSmall /> Node.js
             </li>
-            <li>
-              <SiExpress /> Express.js
-            </li>
-            <li>
-              <DiDjango /> Django
-            </li>
+            <li>Express.js</li>
+            <li>Django</li>
           </ul>
         </div>
 
