@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-React-Portfolio/static/css/main.bd6ecf11.css",
-    "main.js": "/My-React-Portfolio/static/js/main.6ec0394a.js",
+    "main.js": "/My-React-Portfolio/static/js/main.59148b04.js",
     "static/js/453.5ec38994.chunk.js": "/My-React-Portfolio/static/js/453.5ec38994.chunk.js",
     "static/media/ปัญหาการส่งเสริมสุขภาพ.pdf": "/My-React-Portfolio/static/media/ปัญหาการส่งเสริมสุขภาพ.03aea342d45dab18cb39.pdf",
     "static/media/Rabbit.pdf": "/My-React-Portfolio/static/media/Rabbit.337093c21418c911c24c.pdf",
@@ -24,11 +24,11 @@
     "static/media/spot.png": "/My-React-Portfolio/static/media/spot.2f0d3cfa29896a953fa3.png",
     "index.html": "/My-React-Portfolio/index.html",
     "main.bd6ecf11.css.map": "/My-React-Portfolio/static/css/main.bd6ecf11.css.map",
-    "main.6ec0394a.js.map": "/My-React-Portfolio/static/js/main.6ec0394a.js.map",
+    "main.59148b04.js.map": "/My-React-Portfolio/static/js/main.59148b04.js.map",
     "453.5ec38994.chunk.js.map": "/My-React-Portfolio/static/js/453.5ec38994.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd6ecf11.css",
-    "static/js/main.6ec0394a.js"
+    "static/js/main.59148b04.js"
   ]
 }
