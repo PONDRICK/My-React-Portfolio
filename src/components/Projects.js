@@ -29,7 +29,7 @@ function Projects() {
             <h3>Spotscout Final Project</h3>
             <p>2024</p>
           </a>
-          <a
+          {/* <a
             href="https://github.com/PONDRICK/Place_Predict"
             target="_blank"
             class="project-card"
@@ -37,7 +37,7 @@ function Projects() {
             <img src={image_spot} />
             <h3>Research on Models Predicting Place Types</h3>
             <p>2024</p>
-          </a>
+          </a> */}
           <a
             href="https://github.com/PONDRICK/Kidney_Stone_Detection"
             target="_blank"

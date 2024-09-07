@@ -14,6 +14,13 @@ import {
   DiDjango,
   DiMysql,
 } from "react-icons/di";
+import {
+  SiC,
+  SiCsharp,
+  SiTypescript,
+  SiExpress,
+  SiPostman,
+} from "react-icons/si";
 
 function Skills() {
   return (
@@ -34,17 +41,15 @@ function Skills() {
               <DiJavascript1 /> Javascript
             </li>
             <li>
-              <DiJavascript1 /> Typescript
+              <SiTypescript /> Typescript
             </li>
             <li>
-              <DiJavascript1 /> C
+              <SiC /> C
             </li>
             <li>
-              <DiJavascript1 /> C#
+              <SiCsharp /> C#
             </li>
-            <li>
-              <DiJavascript1 /> MATLAB
-            </li>
+            <li>MATLAB</li>
           </ul>
         </div>
 
@@ -76,7 +81,7 @@ function Skills() {
               <DiNodejsSmall /> Node.js
             </li>
             <li>
-              <DiNodejsSmall /> Express.js
+              <SiExpress /> Express.js
             </li>
             <li>
               <DiDjango /> Django
@@ -103,7 +108,7 @@ function Skills() {
               <DiDocker /> Docker
             </li>
             <li>
-              <DiDatabase /> Postman
+              <SiPostman /> Postman
             </li>
           </ul>
         </div>

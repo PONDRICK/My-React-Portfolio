@@ -1,6 +1,6 @@
 import React from "react";
 import profileImage from "../assets/images/pond.png";
-import CV_download from "../assets/images/CV Sorrawit Nuernuam.pdf";
+import CV_download from "../assets/images/Sorrawit Nuernuam CV.pdf";
 
 function Home() {
   return (
